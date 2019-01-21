@@ -44,6 +44,7 @@ cmake_install.cmake
 
 CMakeCache.txt
 CMakeFiles/
+cmake-build-debug/
 Release/
 Debug/
 Makefile
